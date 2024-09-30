@@ -1,0 +1,23 @@
+{
+    "prompt": "This is a todo list app.",
+    "state": {
+        "todos": [
+            {
+                "title": "Learn react",
+                "completed": true
+            },
+            {
+                "title": "Buy Milk",
+                "completed": true
+            },
+            {
+                "title": "Do laundry",
+                "completed": false
+            },
+            {
+                "title": "Clean room",
+                "completed": true
+            }
+        ]
+    }
+}
